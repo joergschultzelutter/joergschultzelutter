@@ -1,3 +1,3 @@
 Contact details:
 
-- [My content on github.io](https://joergschultzelutter.github.io/)
+- [My stuff on github.io](https://joergschultzelutter.github.io/)
